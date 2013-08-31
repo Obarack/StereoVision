@@ -1,1 +1,0 @@
-Given stereo images that have been rectified, compare every pixel in the left image against windows at a range of horizontal disparities in the right image in order to find the disparity maps. Normalized cross correleation is computed for finding the disparities and additionally validity checks are issued to improve the result.
